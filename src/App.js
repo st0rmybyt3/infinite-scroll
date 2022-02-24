@@ -22,7 +22,7 @@ function App() {
     setPage(page + 1)
 	};
 
-	useEffect(() => getImages(), []);
+	useEffect(() => getImages());
 
 	return (
 		<div className="App">
