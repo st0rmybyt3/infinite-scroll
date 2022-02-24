@@ -1,0 +1,8 @@
+.header {
+  text-align: center;
+  padding-top: 2rem;
+}
+
+.header > h1 {
+  text-transform: uppercase
+}
